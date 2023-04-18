@@ -1,0 +1,52 @@
+FIRST TAB:
+
+Commodity (dobro) - jakieś tam prondy i inne tego typu tego typu
+
+We will need:
+	2 Sets - 1 commmodity and one of processes
+
+subset, commodity name, commodity desription should be filled
+
+set and name only letters or "_"
+
+Units are for our information.
+
+Timeslice levels are described in the comment. Empty cell = annual (default value).
+
+SECOND TAB:
+
+Region empty = assumes it describes all region
+
+Tact Tcap infromation for ourselves
+
+*
+*
+*
+
+THIRD TAB:
+
+Flow <= CAP * CAPZACT
+
+8760*3600 = 31 536 000
+Ja już nie wiem w sumie o co chodzi, ale jest spoko jakby tego typu.
+
+FOURTH TAB:
+
+ZADANIE
+Scenario in groups using Veda online for example: what would happened if we would invest in
+nuclear power.
+
+Results: 
+VARCAP
+
+
+
+Coś tam już nie wiem co
+
+FLOW(ELEC)>=100
+
+
+
+
+
+
